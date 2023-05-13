@@ -1,10 +1,10 @@
 'use client';
  
-export default function Settings() {
+export default function Team() {
  
   return (
     <div>
-      setting page
+      Team component
     </div>
   );
 }

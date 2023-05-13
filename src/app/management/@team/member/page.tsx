@@ -1,10 +1,10 @@
 'use client';
  
-export default function Settings() {
+export default function Member() {
  
   return (
     <div>
-      setting page
+      Member page
     </div>
   );
 }
